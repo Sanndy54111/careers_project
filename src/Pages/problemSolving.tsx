@@ -4,6 +4,6 @@ const text = `Lorsque j'ai commencé à programmer (pendant le 5e année d'écol
 
 export function ProblemSolving() {
   return (
-    <Card text={text} title='La résolution de problèmes' date='2017'/>
+    <Card text={text} title='La résolution de problèmes' date='2017' image="https://miro.medium.com/max/1400/0*6TwGvW85f20MMmIr" />
   )
 }

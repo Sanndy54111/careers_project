@@ -4,6 +4,6 @@ const text = `En septième année, je faisais partie de l'équipe informatique d
 
 export function ProjectManagement() {
   return (
-    <Card text={text} title='Gestion de projets' date='2018'/>
+    <Card text={text} title='Gestion de projets' date='2018' image="https://journalmetro.com/wp-content/uploads/2017/11/carriecc80res-responsabilitecc81s_c100.jpg" />
   )
 }

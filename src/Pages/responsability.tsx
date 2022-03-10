@@ -4,6 +4,6 @@ const text = `J'ai passé les derniers jours d'école à rattraper le travail ma
 
 export function Responsability() {
   return (
-    <Card text={text} title='Responsabilité' date='Juin 2021'/>
+    <Card text={text} title='Responsabilité' date='Juin 2021' image="https://www.revuegestion.ca/media/magefan_blog/responsabilite_sociale_entreprise_1.jpg" />
   )
 }

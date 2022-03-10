@@ -4,6 +4,6 @@ const text = `Le premier jour où j'ai suivi l'école en personne, j'ai réalis�
 
 export function Adaptability() {
   return (
-    <Card text={text} title='Adaptabilité' date='Septembre 2021'/>
+    <Card text={text} title='Adaptabilité' date='Septembre 2021' image="https://www.dynamique-mag.com/wp-content/uploads/2109.jpg"/>
   )
 }

@@ -4,6 +4,6 @@ const text = `Le premier projet de groupe " sérieux " que j'ai eu était en 6è
 
 export function TeamWork() {
   return (
-    <Card text={text} title="Travail D'équipe" date='2017'/>
+    <Card text={text} title="Travail D'équipe" date='2017' image="https://www.dynamique-mag.com/wp-content/uploads/2109.jpg" />
   )
 }

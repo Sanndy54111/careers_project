@@ -4,6 +4,6 @@ const text = `J'ai commencé à m'intéresser à l'informatique vers le début d
 
 export function ComputerSkills() {
   return (
-    <Card text={text} title='Les Compétences Informatiques ' date='2016'/>
+    <Card text={text} title='Les Compétences Informatiques' date='2016' image="https://edu.ge.ch/site/tablettepedagogique/wp-content/uploads/sites/7/2020/06/pix.png"/>
   )
 }
